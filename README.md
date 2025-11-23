@@ -70,7 +70,4 @@ Connected via
 {Platform}
 
 
-NOTE:
-(This was made to counteract X's rate limiting errors caused by needlessly loading the users profile to click on the about section directly. It should help prevent this by skipping that entirely and directing you straight to /about)
-(Use at your own risk. I am not responsible for anything that may happen to your account from the use of this script. By using this script you are fully responsible for any actions or restrictions placed onto your X/Twitter account.)
-(NOTE: I am only including this in case someone were to misuse the script, leading to X taking action on their account.)
+**(Please ensure you read the information at the top of this README if you have not already.)**
