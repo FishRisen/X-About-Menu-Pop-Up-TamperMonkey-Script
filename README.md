@@ -5,6 +5,9 @@
 **(This script exists purely to work around X’s rate-limit issues by skipping the full profile load and going straight to the /about page inside an embedded frame. It does not use the API and does not perform any actions on your behalf; but as with any third-party script, please use it with caution.)**
 
 
+// THIS SCRIPT ONLY WORKS AS INTENDED ON FIREFOX.
+// USING THIS ON CHROME WILL REPLACE THE EMBEDDED WINDOW FRAME WITH A BROWSER POP-UP.
+
 
 <img width="512" height="543" alt="elonexample" src="https://github.com/user-attachments/assets/c1c33a58-17d2-4f1e-b3e5-4a11c63b77ba" />
 
