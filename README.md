@@ -6,6 +6,7 @@
 
 
 
+<img width="512" height="543" alt="elonexample" src="https://github.com/user-attachments/assets/c1c33a58-17d2-4f1e-b3e5-4a11c63b77ba" />
 
 
 
@@ -37,6 +38,7 @@
 
 3. When done, scroll with your mouse outside of the frame, or simply click anywhere outside of it and then move onto the next one!
 
+![elonexample](https://github.com/user-attachments/assets/5dee2f49-d256-48c7-9ccb-ba6e1815552a)
 
 
 ==**IMPORTANT!**==
