@@ -38,9 +38,8 @@
 3. When done, scroll with your mouse outside of the frame, or simply click anywhere outside of it and then move onto the next one!
 
 
-==============
+
 **IMPORTANT!**
-==============
 
 **DO**
 
