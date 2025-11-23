@@ -1,9 +1,3 @@
-//NOTE
-//(Use this script at your own risk. I’m not responsible for anything that happens to your X/Twitter account as a result of using it.
-//(By choosing to run it, you accept full responsibility for any actions, restrictions, or consequences that may occur.)
-//(This script exists purely to work around X’s rate-limit issues by skipping the full profile load and going straight to the /about page inside an embedded frame.)
-//(It does not use the API and does not perform any actions on your behalf; but as with any third-party script, please use it with caution.)
-
 // ==UserScript==
 // @name         X About Popup Window
 // @namespace    idk
@@ -12,6 +6,12 @@
 // @match        https://twitter.com/*
 // @grant        none
 // ==/UserScript==
+
+//NOTE
+//(Use this script at your own risk. I’m not responsible for anything that happens to your X/Twitter account as a result of using it. By choosing to run it, you accept full responsibility for any actions, restrictions, or consequences that may occur.)
+//(This script exists purely to work around X’s rate-limit issues by skipping the full profile load and going straight to the /about page inside an embedded frame. It does not use the API and does not perform any actions on your behalf; but as with any third-party script, please use it with caution.)
+
+
 
 (function(){
 
@@ -141,6 +141,4 @@
     });
 
 })();
-
-
 
