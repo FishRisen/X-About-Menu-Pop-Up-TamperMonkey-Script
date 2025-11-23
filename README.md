@@ -40,7 +40,12 @@
 2. An embedded frame will open showing the users "About" section:
    ("Date joined", "Account based in", "Verified since/"Last on", and "Connected via")
 
-3. When done, scroll with your mouse outside of the frame, or simply click anywhere outside of it and then move onto the next one!
+   
+   **(When using Chrome, the embedded window will not work. Instead a dedicated browser pop-up window will open.)**
+   ** (I will update if and when I figure out a workaround.) 
+
+
+4. When done, scroll with your mouse outside of the frame, or simply click anywhere outside of it and then move onto the next one!
 
 ![elonexample](https://github.com/user-attachments/assets/5dee2f49-d256-48c7-9ccb-ba6e1815552a)
 
