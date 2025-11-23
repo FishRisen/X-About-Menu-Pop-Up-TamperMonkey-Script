@@ -1,13 +1,11 @@
 **NOTE**
 
-**(Use at your own risk. I am not responsible for anything that may happen to your account from the use of this script. By using this script you are fully responsible for any actions or restrictions placed onto your X/Twitter account.)**
+**(Use this script at your own risk. I’m not responsible for anything that happens to your X/Twitter account as a result of using it. By choosing to run it, you accept full responsibility for any actions, restrictions, or consequences that may occur.)**
 
-**(This was made to counteract X's rate limiting errors caused by needlessly loading the users profile to click on the about section directly. It should help prevent this by skipping that entirely and directing you straight to /about)**
+**(This script exists purely to work around X’s rate-limit issues by skipping the full profile load and going straight to the /about page inside an embedded frame. It does not use the API and does not perform any actions on your behalf; but as with any third-party script, please use it with caution.)**
 
-**(I am only including this in case someone were to misuse the script, leading to X taking action on their account.)**
 
-**(That shouldn't ever happen as this is not using API calls and is simply loading the page in a frame within your current tab.)**
-**(But as with any third party script, proceed with caution.)**
+
 
 
 
